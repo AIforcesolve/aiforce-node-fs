@@ -1,0 +1,1 @@
+{"name": "node-fs", "scripts": {"build": "echo ok", "test:fs": "node --test test.js"}}
